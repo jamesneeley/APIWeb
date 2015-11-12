@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://hspp1-3a.ecin1devo1wpp3.com/ws/HorizonService.asmx?wsdl" docRef="https://hspp1-3a.ecin1devo1wpp3.com/ws/HorizonService.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://hspp1-3a.ecin1devo1wpp3.com/ws/HorizonService.asmx" xmlns:q1="http://tempuri.org/" binding="q1:HorizonServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://hspp1-3a.ecin1devo1wpp3.com/ws/HorizonService.asmx" xmlns:q2="http://tempuri.org/" binding="q2:HorizonServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
